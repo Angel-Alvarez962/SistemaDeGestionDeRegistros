@@ -13,25 +13,6 @@ Se desarrolló una aplicación en C# que permite:
 - Medir y comparar el tiempo de ejecución de cada búsqueda.
 - Usar una estructura de tabla hash para búsquedas por clave.
 
-## Estructuras y Algoritmos Utilizados
-
-### Archivos principales
-
-
-/algoritmos-busqueda-cs
-
-├── Program.cs        // Lógica del menú y flujo principal
-
-├── Search.cs         // Métodos de búsqueda: secuencial, ordenada, binaria
-
-├── Hash.cs           // Implementación de tabla hash
-
-├── Utils.cs          // Funciones auxiliares: creación de arreglos, impresión
-
-├── Benchmark.cs      // Pruebas de rendimiento y comparación de algoritmos
-
-└── README.md         // Documentación del proyecto
-
 
 ### Algoritmos implementados
 
